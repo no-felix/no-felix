@@ -8,7 +8,7 @@
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=no-felix&label=Profile%20views&color=blue&style=for-the-badge" alt="no-felix" /> </p>
 
 - 🔭 I’m currently working on my apprenticeship as a **System Integration Specialist**, and actively developing the **Stormbound Isles** Minecraft plugin and its **Next.js showcase website**.
-- 🌱 I’m currently focusing on **Web Development** (especially **React** and **Next.js** for dynamic applications), exploring **Kotlin** (particularly for **Minecraft modding**), understanding **JEE** (with a keen interest in **Spring Boot** for future projects), and enhancing my **administration & networking** skills.
+- 🌱 I’m currently focusing on **Web Development** (especially **React** and **Next.js** for dynamic applications), and enhancing my **administration & networking** skills (including **Linux**, **Windows 11 administration**, and **Intune management**).
 - 😄 Pronouns: He/Him
 
 ---
@@ -70,6 +70,7 @@
 - **Kotlin:** Exploring the Kotlin language.
 - **Java Enterprise Edition (JEE):** Learning JEE, with an eye on Spring Boot for the future.
 - **Linux & Networks:** Administration, Scripting, Troubleshooting
+- **Windows 11 Administration:** Including Intune and other management tools.
 
 ---
 
