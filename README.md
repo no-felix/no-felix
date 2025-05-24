@@ -56,7 +56,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=no-felix&show_icons=true&locale=en&theme=github_dark&count_private=true" alt="no-felix" />
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=no_felix&theme=github-dark-blue" alt="GitHub Streak"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=no-felix&theme=github-dark-blue" alt="GitHub Streak"/>
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=no-felix&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true" alt="no-felix" />
