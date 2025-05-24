@@ -68,7 +68,7 @@
 
 - **Web Development:** Learning various frameworks like Next.js, React, Angular, and more.
 - **Kotlin:** Exploring the Kotlin language.
-- **Java Enterprise Edition (JEE):** Learning JEE, with an eye on Spring Boot for the future.
+- **Jakarta Enterprise Edition (JEE):** Learning JEE, with an eye on Spring Boot for the future.
 - **Linux & Networks:** Administration, Scripting, Troubleshooting
 - **Windows 11 Administration:** Including Intune and other management tools.
 
