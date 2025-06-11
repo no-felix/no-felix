@@ -7,8 +7,8 @@
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=no-felix&label=Profile%20views&color=blue&style=for-the-badge" alt="no-felix" /> </p>
 
-- 🔭 I’m currently working on my apprenticeship as a **System Integration Specialist**, and actively developing the **Stormbound Isles** Minecraft plugin and its **Next.js showcase website**.
-- 🌱 I’m currently focusing on **Web Development** (especially **React** and **Next.js** for dynamic applications), and enhancing my **administration & networking** skills (including **Linux**, **Windows 11 administration**, and **Intune management**).
+- 🔭 I'm currently working on my apprenticeship as a **System Integration Specialist**, developing an **ultra-realistic German railway game** on Roblox through my game studio **Quantara Studio**, and actively maintaining the **Stormbound Isles** Minecraft plugin and its **Next.js showcase website**.
+- 🌱 I'm currently focusing on **Web Development** (especially **React** and **Next.js** for dynamic applications), **Roblox game development** with **Luau scripting**, and enhancing my **administration & networking** skills (including **Linux**, **Windows 11 administration**, and **Intune management**).
 - 😄 Pronouns: He/Him
 
 ---
@@ -27,6 +27,7 @@
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://luau-lang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="luau" width="40" height="40"/> </a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/> </a>
 <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/> </a>
 
@@ -35,6 +36,7 @@
 <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/> </a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/> </a>
 
+<a href="https://www.roblox.com/create" target="_blank" rel="noreferrer"> <img src="https://images.rbxcdn.com/8560f7a3ea6434135b1e45dc76e77895.png" alt="roblox studio" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/insiders/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374174/vscode-insiders.svg" alt="VS Code Insiders" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a>
@@ -67,6 +69,7 @@
 <h3 align="left">🚀 Currently Learning:</h3>
 
 - **Web Development:** Learning various frameworks like Next.js, React, Angular, and more.
+- **Roblox Game Development:** Mastering Luau scripting and advanced game mechanics for realistic simulations.
 - **Kotlin:** Exploring the Kotlin language.
 - **Jakarta Enterprise Edition (JEE):** Learning JEE, with an eye on Spring Boot for the future.
 - **Linux & Networks:** Administration, Scripting, Troubleshooting
@@ -76,6 +79,7 @@
 
 <h3 align="left">💡 Projects:</h3>
 
+- [**Quantara Studio**](https://www.roblox.com/communities/36091019/Quantara-Studios#!/about): My game studio developing an **German railway simulation game** on Roblox, focused on authentic train operations and detailed German railway systems.
 - [**Modrinth Mod Sorter**](https://github.com/no-felix/modrinth-mod-sorter): Java tool to help Minecraft players and modpack creators easily organize and sort their Modrinth mods.
 - [**Stormbound Isles**](https://github.com/no-felix/stormbound-isles): Minecraft Fabric plugin (1.21.1) for five-team PvP on elemental islands, with dynamic events and unique team perks.
 - [**Stormbound Isles (Next.js)**](https://github.com/no-felix/stormbound-isles-nextjs): Modern web app built with TypeScript and Tailwind CSS to showcase features, gameplay, and downloads for the mod.
