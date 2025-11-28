@@ -1,169 +1,111 @@
 <div align="center">
-  <h1 align="center">👋 Hi, I'm Felix</h1>
-  <h3 align="center">Apprentice System Integration Specialist from Germany 🇩🇪</h3>
   
-  ![Profile views](https://komarev.com/ghpvc/?username=no-felix&label=Profile%20views&color=blue&style=for-the-badge)
+  # Hey, I'm Felix 👋
   
-  ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-blue?style=flat-square)
+  **System Integration Specialist** · Germany 🇩🇪 · He/Him
+  
+  *Wiring systems together professionally, writing code obsessively*
+  
+  [![Profile views](https://komarev.com/ghpvc/?username=no-felix&color=0d1117&style=flat&label=visitors)](https://github.com/no-felix)
+  
 </div>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### ⚡ What I Work With
 
-<details open>
-<summary><strong>💻 Programming Languages</strong></summary>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://luau-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="luau" width="40" height="40"/>
-  </a>
-</p>
-</details>
+```
+ Backend          Java · Kotlin · Spring Boot · JEE · Hibernate · Python · C#
+ Frontend         TypeScript · Angular · React · Next.js · Vite · TailwindCSS · WebSockets
+ Data             PostgreSQL · Redis · Flyway
+ Infrastructure   Docker · Kubernetes · OpenShift · Red Hat · JBoss · Tomcat · Apache · NGINX
+ CI/CD            Jenkins · GitHub Actions · SonarQube · JFrog Artifactory
+ Automation       Ansible · Bash · PowerShell
+ Testing          JUnit · Mockito · JaCoCo · k6 · Postman
+ Monitoring       Grafana · Keycloak · OpenAPI
+ Platforms        Linux (Fedora, Ubuntu) · Windows Server · BigIP
+ Game Dev         Luau · Roblox Studio
+ Tools            Git · Jira · Confluence · Obsidian · Gradle · Maven · npm · Yarn
+```
 
-<details open>
-<summary><strong>🔨 Build Tools</strong></summary>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-  </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
-  </a>
-  <a href="https://gradle.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/>
-  </a>
-</p>
-</details>
-
-<details open>
-<summary><strong>🌐 Web Development</strong></summary>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://rxjs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" alt="rxjs" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/>
-  </a>
-</p>
-</details>
-
-<details open>
-<summary><strong>🔗 Version Control & Collaboration</strong></summary>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/>
-  </a>
-</p>
-</details>
-
-<details open>
-<summary><strong>🖥️ IDEs</strong></summary>
-<p align="left">
-  <a href="https://code.visualstudio.com/insiders/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374174/vscode-insiders.svg" alt="VS Code Insiders" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" alt="rider" width="40" height="40"/>
-  </a>
-</p>
-</details>
-
-<details open>
-<summary><strong>🖧 Operating Systems</strong></summary>
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-  </a>
-  <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" alt="fedora" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/windows/" target="blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  </a>
+<details>
+<summary>🎨 <b>The icon wall</b> <i>(for the visual learners)</i></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,python,cs,ts,js,angular,react,nextjs,vite,tailwind,html,css&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,openshift,redhat,jenkins,ansible,linux,bash,powershell,nginx&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=grafana,postman,gradle,maven,npm,git,github,bitbucket,githubactions,idea,vscode,obsidian,robloxstudio&theme=dark" />
 </p>
 </details>
 
 ---
 
-<h3 align="left">📊 My GitHub Stats:</h3>
+### 🚀 Featured Projects
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=no-felix&show_icons=true&locale=en&theme=github_dark&count_private=true" alt="no-felix" />
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=no-felix&theme=github-dark-blue" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=no-felix&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true" alt="no-felix" />
-</p>
+<table>
+<tr>
+<td width="50%">
+
+**🌑 [AbyssGazer](https://github.com/no-felix/abyssgazer)**  
+Minecraft mod featuring procedural dungeons, RPG systems, skill trees & progressive difficulty. *Survive the ever-deepening abyss.*
+
+</td>
+<td width="50%">
+
+**⚔️ [Stormbound Isles](https://github.com/no-felix/stormbound-isles)**  
+Fabric plugin (1.21.1) — five-team PvP on elemental islands with dynamic events and unique team perks.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔧 [Modrinth Mod Sorter](https://github.com/no-felix/modrinth-mod-sorter)**  
+CLI tool for Minecraft players and modpack creators to organize their Modrinth mods.
+
+</td>
+<td width="50%">
+
+**🚂 [Quantara Studios](https://www.roblox.com/communities/36091019/Quantara-Studios#!/about)**  
+Building an authentic German railway simulation on Roblox with realistic train operations.
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h3 align="left">💡 Notable Projects:</h3>
+### 📈 Stats
 
-| Project                                                                                        | Description                                                                                                                                   |
-| ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🌑 [**AbyssGazer**](https://github.com/no-felix/abyssgazer)                                     | Minecraft mod with procedurally generated dungeons, RPG role system, skill trees, and progressive difficulty—survive the ever-deepening abyss |
-| 🔧 [**Modrinth Mod Sorter**](https://github.com/no-felix/modrinth-mod-sorter)                  | Java tool to help Minecraft players and modpack creators organize and sort their Modrinth mods                                                |
-| ⚔️ [**Stormbound Isles**](https://github.com/no-felix/stormbound-isles)                        | Minecraft Fabric plugin (1.21.1) for five-team PvP on elemental islands with dynamic events and unique team perks                             |
-| 🚂 [**Quantara Studios**](https://www.roblox.com/communities/36091019/Quantara-Studios#!/about) | Game studio developing a German railway simulation game on Roblox with authentic train operations and detailed German railway systems         |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=no-felix&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=no-felix&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=no-felix&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=no-felix&layout=compact&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=no-felix&layout=compact&theme=default&hide_border=true&count_private=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=no-felix&layout=compact&theme=github_dark&hide_border=true&count_private=true" alt="Top Languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=no-felix&theme=github-dark-blue&hide_border=true&background=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=no-felix&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=no-felix&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  </picture>
+</p>
 
 ---
 
 <div align="center">
-  <strong>⭐️ Feel free to star some repositories!</strong>
-  <p><a href="https://github.com/no-felix">no-felix</a></p>
+  
+  *If you found something useful, consider dropping a ⭐*
+  
+  **[no-felix](https://github.com/no-felix)**
+  
 </div>
