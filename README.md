@@ -15,17 +15,15 @@
 ### ⚡ What I Work With
 
 ```
- Backend          Java · Kotlin · Spring Boot · JEE · Hibernate · Python · C#
- Frontend         TypeScript · Angular · React · Next.js · Vite · TailwindCSS · WebSockets
- Data             PostgreSQL · Redis · Flyway
- Infrastructure   Docker · Kubernetes · OpenShift · Red Hat · JBoss · Tomcat · Apache · NGINX
- CI/CD            Jenkins · GitHub Actions · SonarQube · JFrog Artifactory
- Automation       Ansible · Bash · PowerShell
- Testing          JUnit · Mockito · JaCoCo · k6 · Postman
- Monitoring       Grafana · Keycloak · OpenAPI
- Platforms        Linux (Fedora, Ubuntu) · Windows Server · BigIP
- Game Dev         Luau · Roblox Studio
- Tools            Git · Jira · Confluence · Obsidian · Gradle · Maven · npm · Yarn
+ Languages        Java · Kotlin · TypeScript · Python · C# · Luau
+ Backend          Spring Boot · JEE · Hibernate · REST · OpenAPI · WebSockets
+ Frontend         Angular · React · Next.js · Vite · TailwindCSS
+ Data & Auth      PostgreSQL · Redis · Flyway · Keycloak
+ DevOps           Docker · Kubernetes · OpenShift · Ansible · Jenkins · GitHub Actions
+ Infrastructure   Red Hat · JBoss · Tomcat · Apache · NGINX · BigIP
+ Quality          SonarQube · JFrog Artifactory · JUnit · Mockito · JaCoCo · k6 · Postman
+ Platforms        Linux (Fedora, Ubuntu) · Windows Server
+ Tools            Git · Gradle · Maven · npm · Yarn · Jira · Confluence · Obsidian
 ```
 
 <details>
