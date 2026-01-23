@@ -46,28 +46,14 @@
 <tr>
 <td width="50%">
 
-**🌑 [AbyssGazer](https://github.com/no-felix/abyssgazer)**  
-Minecraft mod featuring procedural dungeons, RPG systems, skill trees & progressive difficulty. *Survive the ever-deepening abyss.*
-
-</td>
-<td width="50%">
-
 **⚔️ [Stormbound Isles](https://github.com/no-felix/stormbound-isles)**  
-Fabric plugin (1.21.1) — five-team PvP on elemental islands with dynamic events and unique team perks.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔧 [Modrinth Mod Sorter](https://github.com/no-felix/modrinth-mod-sorter)**  
-CLI tool for Minecraft players and modpack creators to organize their Modrinth mods.
+Fabric plugin (1.20.1) — five-team PvP on elemental islands with dynamic events and unique team perks.
 
 </td>
 <td width="50%">
 
 **🚂 [Quantara Studios](https://www.roblox.com/communities/36091019/Quantara-Studios#!/about)**  
-Building an authentic German railway simulation on Roblox with realistic train operations.
+Building immersive experiences on Roblox.
 
 </td>
 </tr>
