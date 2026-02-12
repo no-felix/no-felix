@@ -14,8 +14,8 @@ jobs:
           template: classic
           base: header, repositories, commits
           config_timezone: Europe/Berlin
-          config_theme: tokyonight
-          config_border: false
+          config_presets: tokyonight
+          config_padding: 0
           output_action: pull-request
       - uses: lowlighter/metrics@latest
         with:
@@ -23,9 +23,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
           base: false
-          languages: true
-          languages_limit: 6
+          plugin_languages: true
+          plugin_languages_limit: 6
           config_timezone: Europe/Berlin
-          config_theme: tokyonight
-          config_border: false
+          config_presets: tokyonight
+          config_padding: 0
           output_action: pull-request
