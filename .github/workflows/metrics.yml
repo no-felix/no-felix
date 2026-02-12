@@ -16,6 +16,7 @@ jobs:
           config_timezone: Europe/Berlin
           config_theme: tokyonight
           config_border: false
+          output_action: pull-request
       - uses: lowlighter/metrics@latest
         with:
           filename: languages.svg
@@ -27,3 +28,4 @@ jobs:
           config_timezone: Europe/Berlin
           config_theme: tokyonight
           config_border: false
+          output_action: pull-request

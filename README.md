@@ -12,7 +12,7 @@
 
 ### ⚡ Tech Stack
 
-<table align="center">
+<table align="center" border="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td align="center" width="90"><b>Core</b></td>
     <td><img src="https://skillicons.dev/icons?i=java,kotlin,python,cs,ts,html,css&theme=dark&perline=10" alt="Core"></td>
@@ -39,7 +39,7 @@
 
 ### 🚀 Selected Works
 
-<table border="0" width="100%">
+<table border="0" width="100%" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="50%" align="left" valign="top">
       <b>⚔️ Stormbound Isles</b><br>
@@ -58,7 +58,7 @@
   </tr>
 </table>
 
-<table border="0" width="100%">
+<table border="0" width="100%" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="100%" align="center">
       <br>
