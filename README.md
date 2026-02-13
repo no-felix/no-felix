@@ -82,11 +82,12 @@
 
 ### 📈 Analytics
 
-<div align="center">
-  <img height="165" src="./metrics.svg" alt="Stats">
-  <img height="165" src="./languages.svg" alt="Langs">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=no-felix&theme=tokyonight&hide_border=true" alt="Streak">
+<div align="center" style="display:flex;gap:24px;justify-content:center;align-items:flex-start;flex-wrap:wrap;">
+  <div style="display:flex;flex-direction:column;gap:12px;max-width:480px;">
+    <img src="https://github-stats-extended.vercel.app/api?username=no-felix&show_icons=true&theme=tokyonight&cache_seconds=86400&card_width=480&hide_border=true" alt="Stats" style="width:480px;">
+    <img src="https://streak-stats.demolab.com?user=no-felix&theme=tokyonight&hide_border=true" alt="Streak" style="width:480px;">
+  </div>
+  <div style="max-width:520px;">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=no-felix&langs_count=6&theme=tokyonight&cache_seconds=86400&card_width=520&hide_border=true" alt="Langs" style="width:520px;">
+  </div>
 </div>
