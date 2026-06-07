@@ -63,7 +63,7 @@
     <td width="100%" align="center">
       <br>
       <a href="https://www.roblox.com/communities/36091019/Quantara-Studios#!/about">
-        <img src="https://tr.rbxcdn.com/180DAY-a084ed9984aa9c64935b099a0cf5ed6a/1440/456/Image/Png/noFilter" width="100%" style="border-radius:10px;" alt="Quantara Banner">
+        <img src="https://tr.rbxcdn.com/180DAY-71a311d7ef420f246bf1fd9508751bc6/1440/456/Image/Png/noFilter" width="100%" style="border-radius:10px;" alt="Quantara Banner">
       </a>
       <div align="left">
         <br>
