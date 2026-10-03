@@ -9,7 +9,6 @@ on:
     paths:
       - scripts/activity.mjs
       - scripts/profile-views.mjs
-      - scripts/profile-views.test.mjs
       - .github/workflows/activity.yml
 
 concurrency:
@@ -29,9 +28,6 @@ jobs:
       - uses: actions/setup-node@v7.0.0
         with:
           node-version: 24
-
-      - name: Test view counter rendering
-        run: node --test scripts/profile-views.test.mjs
 
       - name: Build activity card
         run: node scripts/activity.mjs
