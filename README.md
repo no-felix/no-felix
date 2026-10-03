@@ -1,93 +1,46 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=3B9CE6&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Felix;System+Integration+Specialist;Wiring+systems+professionally;Writing+code+obsessively" alt="Typing SVG">
-  
-  <p>
-    System Integration Specialist &nbsp;•&nbsp; Germany 🇩🇪
-  </p>
 
-  <img src="https://komarev.com/ghpvc/?username=no-felix&label=VIEWS&color=1e2025&style=for-the-badge" alt="Views">
+<img src="./assets/header.svg" width="100%" alt="Felix, @no-felix. System Integration Specialist based in Germany. Backend, infrastructure and automation. Rust and game development with neoOMSI, an OMSI 2 reimplementation." />
+
+<img src="./assets/profile-views.svg" width="100%" alt="Profile views, refreshed daily." />
+
+<br />
+<br />
+
+<img src="./assets/stack.svg" width="100%" alt="Stack. Languages: Rust, Java, Kotlin, Python, C#, TypeScript, Lua, HTML, CSS. Backend: Spring, Hibernate, PostgreSQL, Redis, NGINX. Frontend: Angular, React, Next.js, Vite, Tailwind. Infrastructure: Docker, Kubernetes, OpenShift, Jenkins, Ansible, Linux, Bash, PowerShell. Tooling: Git, Grafana, Postman, Gradle, Maven, IntelliJ, VS Code, Obsidian, Godot." />
+
+<br />
+<br />
+
+<a href="https://github.com/neoOMSI/neoOMSI">
+  <img src="./assets/neoomsi.svg" width="100%" alt="neoOMSI. OMSI 2 reimplemented in Rust. A community-developed fork of openOMSI. View repository." />
+</a>
+
+<br />
+<br />
+
+<img src="./assets/activity.svg" width="100%" alt="GitHub activity over the last 12 months: contributions, longest streak, pull request contributions and active days. Language breakdown across owned public repositories, excluding forks." />
+
+<br />
+<br />
+
+<a href="https://www.roblox.com/communities/36091019/Quantara-Studios#!/about">
+  <img src="./assets/quantara.svg" width="100%" alt="Quantara Studios. Independent game studio building immersive, systems-driven experiences. View on Roblox." />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=no-felix&label=Profile%20views&color=6d28d9&style=flat" width="1" height="1" alt="Profile view counter" />
+
 </div>
 
-<br>
+<!-- Profile cards are refreshed daily by .github/workflows/activity.yml.
+     To refresh manually, run the workflow or use Node 20+:
+     GITHUB_TOKEN=<token> node scripts/activity.mjs no-felix
+     node scripts/profile-views.mjs
+     Language usage measures code size in owned public repositories, not proficiency. -->
 
-### ⚡ Tech Stack
+<!-- The tiny Komarev image keeps recording image requests while the visible footer
+     shows a daily snapshot. GitHub caches images; these are not unique visitor counts.
+     Scheduled counter refresh requests also contribute to the total. -->
 
-<table align="center" border="0" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td align="center" width="90"><b>Core</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,kotlin,python,cs,ts,html,css&theme=dark&perline=10" alt="Core"></td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=spring,hibernate,postgres,redis,nginx&theme=dark&perline=10" alt="Backend"></td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=angular,react,nextjs,vite,tailwind&theme=dark&perline=10" alt="Frontend"></td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><b>DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift,jenkins,ansible,linux,bash,powershell&theme=dark&perline=10" alt="DevOps"></td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,grafana,postman,gradle,maven,idea,vscode,obsidian,godot&theme=dark&perline=10" alt="Tools"></td>
-  </tr>
-</table>
-
-<br>
-
-### 🚀 Selected Works
-
-<table border="0" width="100%" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td width="50%" align="left" valign="top">
-      <b>⚔️ Stormbound Isles</b><br>
-      <font size="2" color="#8b949e">Fabric Plugin (1.20.1) — Competitive five-team PvP with dynamic island perks and elemental world events.</font>
-      <br><br>
-      <img src="https://img.shields.io/badge/Java-1e2025?style=flat-square&logo=openjdk&logoColor=white">
-      <img src="https://img.shields.io/badge/Fabric-1e2025?style=flat-square&logo=fabric&logoColor=white">
-    </td>
-    <td width="50%" align="left" valign="top">
-      <b>💀 Blightfall: Melaferus</b><br>
-      <font size="2" color="#8b949e">Dark medieval roguelite deckbuilder built in Godot. Systemic world corruption and lethal run-based progression.</font>
-      <br><br>
-      <img src="https://img.shields.io/badge/Godot_4-1e2025?style=flat-square&logo=godotengine&logoColor=white">
-      <img src="https://img.shields.io/badge/GDScript-1e2025?style=flat-square&logo=godotengine&logoColor=white">
-    </td>
-  </tr>
-</table>
-
-<table border="0" width="100%" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td width="100%" align="center">
-      <br>
-      <a href="https://www.roblox.com/communities/36091019/Quantara-Studios#!/about">
-        <img src="https://tr.rbxcdn.com/180DAY-1800ff26d6785cd7cf75d7fe25618401/1440/456/Image/Png/noFilter" width="100%" style="border-radius:10px;" alt="Quantara Banner">
-      </a>
-      <div align="left">
-        <br>
-        <b>🎮 Quantara Studios</b><br>
-        <font size="2" color="#8b949e">Independent Game Development Studio focused on immersive high-fidelity experiences and systemic gameplay across multiple platforms.</font>
-        <br><br>
-        <img src="https://img.shields.io/badge/Luau-1e2025?style=flat-square&logo=lua&logoColor=white">
-        <img src="https://img.shields.io/badge/Roblox_Studio-1e2025?style=flat-square&logo=roblox&logoColor=white">
-        <img src="https://img.shields.io/badge/Multi--Platform-1e2025?style=flat-square&logo=googleplay&logoColor=white">
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### 📈 Analytics
-
-<div align="center" style="display:flex;gap:24px;justify-content:center;align-items:flex-start;flex-wrap:wrap;">
-  <div style="display:flex;flex-direction:column;gap:12px;max-width:480px;">
-    <img src="https://github-stats-extended.vercel.app/api?username=no-felix&show_icons=true&theme=tokyonight&cache_seconds=86400&card_width=480&hide_border=true" alt="Stats" style="width:480px;">
-    <img src="https://streak-stats.demolab.com?user=no-felix&theme=tokyonight&hide_border=true" alt="Streak" style="width:480px;">
-  </div>
-  <div style="max-width:520px;">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=no-felix&langs_count=6&theme=tokyonight&cache_seconds=86400&card_width=520&hide_border=true" alt="Langs" style="width:520px;">
-  </div>
-</div>
+<!-- The unaltered neoOMSI wordmark and logo identify the project linked in its card,
+     as permitted by https://github.com/neoOMSI/neoOMSI/blob/main/TRADEMARKS.md. -->

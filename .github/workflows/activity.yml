@@ -1,0 +1,55 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/activity.mjs
+      - scripts/profile-views.mjs
+      - scripts/profile-views.test.mjs
+      - .github/workflows/activity.yml
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7.0.1
+
+      - uses: actions/setup-node@v7.0.0
+        with:
+          node-version: 24
+
+      - name: Test view counter rendering
+        run: node --test scripts/profile-views.test.mjs
+
+      - name: Build activity card
+        run: node scripts/activity.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build profile views footer
+        run: node scripts/profile-views.mjs
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- assets/activity.svg assets/profile-views.svg; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity.svg assets/profile-views.svg
+          git commit -m "chore: update profile cards [skip ci]" -m "Co-authored-by: no-felix <69461004+no-felix@users.noreply.github.com>"
+          git pull --rebase
+          git push
