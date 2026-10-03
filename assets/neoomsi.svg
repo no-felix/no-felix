@@ -15,7 +15,7 @@
   <text x="460" y="138" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="600" fill="#f4f4f5">neoOMSI</text>
   <text x="460" y="176" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#a1a1aa">OMSI 2 reimplemented in Rust.</text>
   <text x="460" y="206" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#a1a1aa">A community-developed fork of openOMSI.</text>
-  <g transform="translate(460 236)">
+  <g transform="translate(460 235.5)">
     <rect x="0.5" y="0.5" width="172" height="43" rx="22" fill="#121219" stroke="#34343f"/>
     <text x="20" y="27.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#f4f4f5" textLength="106.4" lengthAdjust="spacing">View repository</text>
     <path d="M138.435546875 22h12m-5-5 5 5-5 5" stroke="#f97316" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
