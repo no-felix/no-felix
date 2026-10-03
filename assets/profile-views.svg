@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" fill="none" role="img" aria-labelledby="title description">
-  <title id="title">Profile views: 1,000</title>
+  <title id="title">Profile views: 1,015</title>
   <desc id="description">Daily snapshot of Komarev image requests, not unique visitors. Includes counter refresh requests.</desc>
   <defs>
     <clipPath id="card"><rect x="0.5" y="0.5" width="1199" height="63" rx="20"/></clipPath>
@@ -18,6 +18,6 @@
   </g>
   <rect x="0.5" y="0.5" width="1199" height="63" rx="20" stroke="#1f1f29"/>
   <text x="56" y="39" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="0.9" fill="#a1a1aa">PROFILE VIEWS</text>
-  <text x="205" y="41" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" fill="#f4f4f5">1,000</text>
+  <text x="205" y="41" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" fill="#f4f4f5">1,015</text>
   <text x="1144" y="39" text-anchor="end" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#a1a1aa">Updated daily</text>
 </svg>
