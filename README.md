@@ -42,5 +42,6 @@
      shows a daily snapshot. GitHub caches images; these are not unique visitor counts.
      Scheduled counter refresh requests also contribute to the total. -->
 
-<!-- The unaltered neoOMSI wordmark and logo identify the project linked in its card,
+<!-- The unaltered gradient wordmark and standalone symbol from neoOMSI/assets/logos
+     identify the project linked in its card,
      as permitted by https://github.com/neoOMSI/neoOMSI/blob/main/TRADEMARKS.md. -->
